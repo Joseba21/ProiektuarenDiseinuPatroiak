@@ -1,0 +1,59 @@
+
+,domain.Question#toString()Ljava/lang/String;[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Question.javaž ž("1*®
+1[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Question.javaŸ	 Ÿ(¨
+¥
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Question.javaŸ	 Ÿ(
+%0java.lang.Integer"__id*'*%
+domain.Question"
+questionNumber¤
+¡
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Question.javaŸ	 Ÿ(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;¡
+ž
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Question.javaŸ Ÿ($
+%2java.lang.String"__id*!*
+domain.Question"
+
+question¶
+³
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Question.javaŸ	 Ÿ($
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String£
+ 
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Question.javaŸ	 Ÿ((
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+;Ä
+Á
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Question.javaŸ) Ÿ(C
+%5java.lang.String"-java.lang.Float#toString(F)Ljava/lang/String;*"
+java.lang.Float*
+""¶
+³
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Question.javaŸ	 Ÿ(C
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"w
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Question.javaŸ Ÿ(D
+
+%6java.lang.StringB
+domain.Question

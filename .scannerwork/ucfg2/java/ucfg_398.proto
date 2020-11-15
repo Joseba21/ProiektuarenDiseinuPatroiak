@@ -1,0 +1,94 @@
+
+)gui.UserGUI#getEuro()Ljavax/swing/JLabel;W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÆ Æ("3*°
+2W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÈ È(#û
+ø
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÈ È(:
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas™–
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÈ È(\
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+UserGUI.label.text_12getString(Ljava/lang/String;)Š‡
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÈ È(
+%3javax.swing.JLabel"javax.swing.JLabelÈ
+Å
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÈ
+ È(]
+%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JLabel*
+
+%2java.lang.String—
+”
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÈ È(]
+gui.UserGUI"
+euro"__id*
+
+%3javax.swing.JLabel—
+”
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÉ É(
+%5javax.swing.JLabel"__id**
+gui.UserGUI"
+eurot
+r
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÉ# É(-	
+%6int"__id*
+""}
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÉ É(
+%7java.awt.Font"java.awt.FontÅ
+Â
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÉ É(2
+%8"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%7java.awt.Font*
+
+Tahoma*
+	
+%6int*2çä
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÉ É(3
+
+%9void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%5javax.swing.JLabel*
+
+%7java.awt.Font2setFont(Ljava/awt/Font;)*
+1*þ
+3W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÇ Ç(
+—
+”
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaÇ Ç(
+
+%0javax.swing.JLabel"__id**
+gui.UserGUI"
+euro*
+2
+1*ï
+1W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaË	 Ë(˜
+•
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaË	 Ë(
+%10javax.swing.JLabel"__id**
+gui.UserGUI"
+euro"v
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/UserGUI.javaË Ë(
+
+%10javax.swing.JLabelB
+gui.UserGUI

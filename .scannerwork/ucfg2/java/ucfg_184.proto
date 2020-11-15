@@ -1,0 +1,111 @@
+
+2gui.EmaitzaIpiniGUI#getPanel()Ljavax/swing/JPanel;_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java∆ ∆("3*Ú
+2_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java» »(íè
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java» »(
+%1javax.swing.JPanel"javax.swing.JPanel§
+°
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java» »(
+%2"javax.swing.JPanel#<init>()V*
+
+%1javax.swing.JPanel®
+•
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java» »( 
+gui.EmaitzaIpiniGUI"
+panel"__id*
+
+%1javax.swing.JPanel®
+•
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java… …(
+%3javax.swing.JPanel"__id*"* 
+gui.EmaitzaIpiniGUI"
+panel›⁄
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java… …(%
+
+%4void"#java.awt.Component#setBounds(IIII)V*
+
+%3javax.swing.JPanel*2É*2–*2ﬂ*2!2setBounds(IIII)®
+•
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java   (
+%5javax.swing.JPanel"__id*"* 
+gui.EmaitzaIpiniGUI"
+panelÁ
+‰
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java   ('
+%6javax.swing.JRadioButton"Hgui.EmaitzaIpiniGUI#getRdbtnNewRadioButton_1()Ljavax/swing/JRadioButton;*
+gui.EmaitzaIpiniGUIôñ
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java   ((
+%7java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%5javax.swing.JPanel* 
+
+%6javax.swing.JRadioButton2add(Ljava/awt/Component;)®
+•
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.javaÀ À(
+%8javax.swing.JPanel"__id*"* 
+gui.EmaitzaIpiniGUI"
+panelÁ
+‰
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.javaÀ À('
+%9javax.swing.JRadioButton"Hgui.EmaitzaIpiniGUI#getRdbtnNewRadioButton_2()Ljavax/swing/JRadioButton;*
+gui.EmaitzaIpiniGUIöó
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.javaÀ À((
+%10java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%8javax.swing.JPanel* 
+
+%9javax.swing.JRadioButton2add(Ljava/awt/Component;)©
+¶
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.javaÃ Ã(
+%11javax.swing.JPanel"__id*"* 
+gui.EmaitzaIpiniGUI"
+panelÊ
+„
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.javaÃ Ã(%
+%12javax.swing.JRadioButton"Fgui.EmaitzaIpiniGUI#getRdbtnNewRadioButton()Ljavax/swing/JRadioButton;*
+gui.EmaitzaIpiniGUIúô
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.javaÃ Ã(&
+%13java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%11javax.swing.JPanel*!
+
+%12javax.swing.JRadioButton2add(Ljava/awt/Component;)*
+1*ó
+3_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java« «(®
+•
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.java« «(
+%0javax.swing.JPanel"__id*"* 
+gui.EmaitzaIpiniGUI"
+panel*
+2
+1*ê
+1_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.javaŒ	 Œ(©
+¶
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.javaŒ	 Œ(
+%14javax.swing.JPanel"__id*"* 
+gui.EmaitzaIpiniGUI"
+panel"~
+_
+SC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EmaitzaIpiniGUI.javaŒ Œ(
+
+%14javax.swing.JPanelB
+gui.EmaitzaIpiniGUI

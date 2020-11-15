@@ -1,0 +1,111 @@
+
+4gui.EkintzaEzabatuGUI#getPanel()Ljavax/swing/JPanel;a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaù ù("3*¥
+2a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaû û(”‘
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaû û(
+%1javax.swing.JPanel"javax.swing.JPanel¦
+£
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaû û(
+%2"javax.swing.JPanel#<init>()V*
+
+%1javax.swing.JPanel¬
+©
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaû û("
+gui.EkintzaEzabatuGUI"
+panel"__id*
+
+%1javax.swing.JPanel¬
+©
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaü ü(
+%3javax.swing.JPanel"__id*$*"
+gui.EkintzaEzabatuGUI"
+panelŞÛ
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaü ü($
+
+%4void"#java.awt.Component#setBounds(IIII)V*
+
+%3javax.swing.JPanel*2(*2œ*2Ö*2!2setBounds(IIII)¬
+©
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaı ı(
+%5javax.swing.JPanel"__id*$*"
+gui.EkintzaEzabatuGUI"
+panelí
+ê
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaı ı('
+%6javax.swing.JRadioButton"Jgui.EkintzaEzabatuGUI#getRdbtnNewRadioButton_1()Ljavax/swing/JRadioButton;*
+gui.EkintzaEzabatuGUI›˜
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaı ı((
+%7java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%5javax.swing.JPanel* 
+
+%6javax.swing.JRadioButton2add(Ljava/awt/Component;)¬
+©
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaş ş(
+%8javax.swing.JPanel"__id*$*"
+gui.EkintzaEzabatuGUI"
+panelí
+ê
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaş ş('
+%9javax.swing.JRadioButton"Jgui.EkintzaEzabatuGUI#getRdbtnNewRadioButton_2()Ljavax/swing/JRadioButton;*
+gui.EkintzaEzabatuGUIœ™
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaş ş((
+%10java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%8javax.swing.JPanel* 
+
+%9javax.swing.JRadioButton2add(Ljava/awt/Component;)­
+ª
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÿ ÿ(
+%11javax.swing.JPanel"__id*$*"
+gui.EkintzaEzabatuGUI"
+panelì
+é
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÿ ÿ(%
+%12javax.swing.JRadioButton"Hgui.EkintzaEzabatuGUI#getRdbtnNewRadioButton()Ljavax/swing/JRadioButton;*
+gui.EkintzaEzabatuGUI›
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÿ ÿ(&
+%13java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%11javax.swing.JPanel*!
+
+%12javax.swing.JRadioButton2add(Ljava/awt/Component;)*
+1*
+3a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaú ú(¬
+©
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaú ú(
+%0javax.swing.JPanel"__id*$*"
+gui.EkintzaEzabatuGUI"
+panel*
+2
+1*™
+1a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.java	 (­
+ª
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.java	 (
+%14javax.swing.JPanel"__id*$*"
+gui.EkintzaEzabatuGUI"
+panel"€
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.java (
+
+%14javax.swing.JPanelB
+gui.EkintzaEzabatuGUI

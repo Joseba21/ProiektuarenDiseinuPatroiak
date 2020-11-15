@@ -1,0 +1,474 @@
+
+@gui.RegisterGUI$2#actionPerformed(Ljava/awt/event/ActionEvent;)V[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java— —("32*Ô
+24[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java­ ­(‰
+†
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java­ ­(I
+%18void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
+javax.swing.JOptionPane*
+""*!
+Adinak zenbakia izan behar du"e
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java® ®(
+""*Ï
+25[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¬ ¬(©
+¦
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¬ ¬(
+%15javax.swing.JTextField"__id*"* 
+gui.RegisterGUI$2"	
+TFAdinaâß
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¬ ¬(#
+%16java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%15javax.swing.JTextField2	getText()Ð
+Í
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¬ ¬($
+%17boolean".gui.RegisterGUI#isNumeric(Ljava/lang/String;)Z*"
+gui.RegisterGUI*
+
+%16java.lang.String*
+24
+23*×
+26[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java© ©(Œ
+‰
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java© ©(L
+%14void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
+javax.swing.JOptionPane*
+""*$"
+ Abizenak ezin du zenbakirik izan"e
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaª ª(
+""*Ñ
+27[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¨ ¨(«
+¨
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¨ ¨(
+%11javax.swing.JTextField"__id*$*"
+gui.RegisterGUI$2"
+	TFAbizenaâß
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¨ ¨($
+%12java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%11javax.swing.JTextField2	getText()Ð
+Í
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¨ ¨(%
+%13boolean".gui.RegisterGUI#isNumeric(Ljava/lang/String;)Z*"
+gui.RegisterGUI*
+
+%12java.lang.String*
+25
+26*Õ
+28[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¥ ¥(Š
+‡
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¥ ¥(J
+%10void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
+javax.swing.JOptionPane*
+""*" 
+Izenak ezin du zenbakirik izan"e
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¦ ¦(
+""*Ê
+29[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¤ ¤(¨
+¥
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¤ ¤(
+%7javax.swing.JTextField"__id*"* 
+gui.RegisterGUI$2"	
+TFIzenaàÝ
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¤ ¤("
+%8java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%7javax.swing.JTextField2	getText()Î
+Ë
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¤ ¤(#
+%9boolean".gui.RegisterGUI#isNumeric(Ljava/lang/String;)Z*"
+gui.RegisterGUI*
+
+%8java.lang.String*
+27
+28*Í
+30[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java   (‚
+ÿ
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java   (D
+
+%6void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
+javax.swing.JOptionPane*
+""*
+Korreoak formatu okerra"e
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¡ ¡(
+""*œ
+31[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaž ž(¹¶
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaž ž(-
+%4java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*$
+"
+patternjava.util.regex.Pattern*
+
+emailjava.lang.String2!matcher(Ljava/lang/CharSequence;)«
+¨
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaž ž(."
+matcherjava.util.regex.Matcher"__id*
+
+%4java.util.regex.MatcherÄÁ
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaŸ
+ Ÿ(
+%5boolean""java.util.regex.Matcher#matches()Z*$
+"
+matcherjava.util.regex.Matcher2	matches()*
+29
+30*Ö
+32[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java˜ ˜(:Ö
+Ó
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java˜ ™(2
+%0java.lang.String"__concat*" 
+^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@*.,
+*[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$¢
+Ÿ
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java˜ ™(3 
+emailPatternjava.lang.String"__id*
+
+%0java.lang.StringŽ
+‹
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java› ›(3
+%1java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
+java.util.regex.Pattern*"
+ 
+emailPatternjava.lang.String«
+¨
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java› ›(4"
+patternjava.util.regex.Pattern"__id*
+
+%1java.util.regex.Patternª
+§
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaœ œ(
+%2javax.swing.JTextField"__id*$*"
+gui.RegisterGUI$2"
+	TFkorreoaàÝ
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaœ œ(&
+%3java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%2javax.swing.JTextField2	getText()›
+˜
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaœ œ('
+emailjava.lang.String"__id*
+
+%3java.lang.String*
+29
+31*þ
+10[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅd Å(o±
+®
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅd Å(o!
+%43javax.swing.JPasswordField"__id*&*$
+gui.RegisterGUI$2"
+TFPasahitzaáÞ
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅd Å(y
+%44java.lang.String"6javax.swing.JPasswordField#getText()Ljava/lang/String;*#
+!
+%43javax.swing.JPasswordField2	getText()*
+9*ú
+11[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅP Å(Y«
+¨
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅP Å(Y
+%41javax.swing.JTextField"__id*$*"
+gui.RegisterGUI$2"
+	TFkorreoaâß
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅP Å(c
+%42java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%41javax.swing.JTextField2	getText()*
+10*ú
+12[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ< Å(E«
+¨
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ< Å(E
+%39javax.swing.JTextField"__id*$*"
+gui.RegisterGUI$2"
+	TFAbizenaâß
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ< Å(O
+%40java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%39javax.swing.JTextField2	getText()*
+11*ø
+13[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ* Å(1©
+¦
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ* Å(1
+%37javax.swing.JTextField"__id*"* 
+gui.RegisterGUI$2"	
+TFIzenaâß
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ* Å(;
+%38java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%37javax.swing.JTextField2	getText()*
+12*Ú
+16[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÀ À(
+Œ
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÀ À(O
+%36void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
+javax.swing.JOptionPane*
+""*'%
+#Pasahitzak berdinak izan behar dute"e
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÁ Á(
+""*	
+17[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¿ ¿(±
+®
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¿ ¿(!
+%31javax.swing.JPasswordField"__id*&*$
+gui.RegisterGUI$2"
+TFPasahitzaáÞ
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¿ ¿(
+%32java.lang.String"6javax.swing.JPasswordField#getText()Ljava/lang/String;*#
+!
+%31javax.swing.JPasswordField2	getText()²
+¯
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¿% ¿(1!
+%33javax.swing.JPasswordField"__id*'*%
+gui.RegisterGUI$2"
+TFPasahitza2áÞ
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¿% ¿(;
+%34java.lang.String"6javax.swing.JPasswordField#getText()Ljava/lang/String;*#
+!
+%33javax.swing.JPasswordField2	getText()ðí
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¿ ¿(<
+%35boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%32java.lang.String*
+
+%34java.lang.String2equals(Ljava/lang/Object;)*
+13
+16*Û
+18[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¼ ¼(
+
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¼ ¼(P
+%30void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
+javax.swing.JOptionPane*
+""*(&
+$Telefonoak 9 digitu eduki behar ditu"e
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java½ ½(
+""*°
+19[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java» »(­
+ª
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java» »(
+%27javax.swing.JTextField"__id*&*$
+gui.RegisterGUI$2"
+TFTelefonoaâß
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java» »(
+%28java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%27javax.swing.JTextField2	getText()­ª
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java» »(%
+
+%29int"java.lang.String#length()I*
+
+%28java.lang.String2length()*
+17
+18*y
+0 "r
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÒ Ò(
+implicit return*µ
+1[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÏ Ï( ‰
+†
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÏ Ï(!
+logjavax.swing.JFrame"__id*
+""Á¾
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÐ Ð(
+%55void"java.awt.Window#setVisible(Z)V*
+
+logjavax.swing.JFrame*
+""2setVisible(Z)*
+0*»
+5]
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ» Å(ÞÑ
+Î
+]
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ» Å(Þ
+
+%52int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+%51java.lang.String*
+1*ü
+6]
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ» Å(Â«
+¨
+]
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅÌ Å(Ó
+%50javax.swing.JTextField"__id*"* 
+gui.RegisterGUI$2"	
+TFAdinaäá
+]
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅÌ Å(Ý
+%51java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%50javax.swing.JTextField2	getText()*
+5*»
+7]
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ’ Å(¹Ñ
+Î
+]
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ’ Å(¹
+
+%49int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+%48java.lang.String*
+6*€
+8]
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ’ Å(™¯
+¬
+]
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ£ Å(®
+%47javax.swing.JTextField"__id*&*$
+gui.RegisterGUI$2"
+TFTelefonoaäá
+]
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅ£ Å(¸
+%48java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%47javax.swing.JTextField2	getText()*
+7*
+9\
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅz Å(†³
+°
+\
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅz Å(†!
+%45javax.swing.JPasswordField"__id*'*%
+gui.RegisterGUI$2"
+TFPasahitza2âß
+\
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.javaÅz Å(
+%46java.lang.String"6javax.swing.JPasswordField#getText()Ljava/lang/String;*#
+!
+%45javax.swing.JPasswordField2	getText()*
+8*Ú
+20[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¸ ¸(
+Œ
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¸ ¸(O
+%26void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
+javax.swing.JOptionPane*
+""*'%
+#Telefonoak digituak izan behar ditu"e
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java¹ ¹(
+""*Ó
+21[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java· ·(­
+ª
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java· ·(
+%23javax.swing.JTextField"__id*&*$
+gui.RegisterGUI$2"
+TFTelefonoaâß
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java· ·('
+%24java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%23javax.swing.JTextField2	getText()Ð
+Í
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java· ·((
+%25boolean".gui.RegisterGUI#isNumeric(Ljava/lang/String;)Z*"
+gui.RegisterGUI*
+
+%24java.lang.String*
+19
+20*Û
+22[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java² ²(
+
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java² ²(P
+%22void"Rjavax.swing.JOptionPane#showMessageDialog(Ljava/awt/Component;Ljava/lang/Object;)V*"
+javax.swing.JOptionPane*
+""*(&
+$Adina 18 edo handiagoa izan behar du"e
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java³ ³(
+""*Î
+23[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java± ±(©
+¦
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java± ±(
+%19javax.swing.JTextField"__id*"* 
+gui.RegisterGUI$2"	
+TFAdinaâß
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java± ±()
+%20java.lang.String";javax.swing.text.JTextComponent#getText()Ljava/lang/String;*
+
+%19javax.swing.JTextField2	getText()Ï
+Ì
+[
+OC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisterGUI.java± ±(*
+
+%21int"/java.lang.Integer#parseInt(Ljava/lang/String;)I*"
+java.lang.Integer*
+
+%20java.lang.String*
+21
+22:"
+arg0java.awt.event.ActionEventB
+gui.RegisterGUI$2

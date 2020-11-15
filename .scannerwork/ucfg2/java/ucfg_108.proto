@@ -1,0 +1,90 @@
+
+Igui.RegisteradminGUI#getRdbtnNewRadioButton_2()Ljavax/swing/JRadioButton;`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.java÷ ÷(."3*û
+2`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaù, ù(8Ÿœ
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaù ù(+
+%1javax.swing.JRadioButton"javax.swing.JRadioButtonÓ
+Ğ
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaù ù(9
+%2"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V* 
+
+%1javax.swing.JRadioButton*
+
+CastellanoÀ
+½
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaù ù(91
+gui.RegisteradminGUI"
+rdbtnNewRadioButton_2"__id* 
+
+%1javax.swing.JRadioButtonÀ
+½
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaú ú(
+%3javax.swing.JRadioButton"__id*3*1
+gui.RegisteradminGUI"
+rdbtnNewRadioButton_2›˜
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaú/ ú(=
+%4gui.RegisteradminGUI$6"gui.RegisteradminGUI$6§
+¤
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaú+ €(
+%5"java.lang.Object#<init>()V*
+
+%4gui.RegisteradminGUI$6·´
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaú €(
+
+%6void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V* 
+
+%3javax.swing.JRadioButton*
+
+%4gui.RegisteradminGUI$622addActionListener(Ljava/awt/event/ActionListener;)µ
+²
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.java (
+%7javax.swing.ButtonGroup"__id*)*'
+gui.RegisteradminGUI"
+buttonGroupÀ
+½
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.java ((
+%8javax.swing.JRadioButton"__id*3*1
+gui.RegisteradminGUI"
+rdbtnNewRadioButton_2“
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.java ()
+
+%9void":javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V*
+
+%7javax.swing.ButtonGroup* 
+
+%8javax.swing.JRadioButton2!add(Ljavax/swing/AbstractButton;)*
+1*°
+3`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaø ø(À
+½
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaø ø(
+%0javax.swing.JRadioButton"__id*3*1
+gui.RegisteradminGUI"
+rdbtnNewRadioButton_2*
+2
+1*±
+1`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaƒ	 ƒ(Á
+¾
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaƒ	 ƒ(
+%10javax.swing.JRadioButton"__id*3*1
+gui.RegisteradminGUI"
+rdbtnNewRadioButton_2"…
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/RegisteradminGUI.javaƒ ƒ(!
+
+%10javax.swing.JRadioButtonB
+gui.RegisteradminGUI

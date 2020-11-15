@@ -1,0 +1,16 @@
+
++domain.Event#getEventDate()Ljava/util/Date;V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Event.javaE E("1*è
+1V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Event.javaF	 F(˜
+•
+V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Event.javaF	 F(
+%0java.util.Date"__id**
+domain.Event"
+	eventDate"p
+V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Event.javaF F(
+
+%0java.util.DateB
+domain.Event

@@ -1,0 +1,344 @@
+
+ gui.TopErabiltzaileGUI#<init>()V`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.java= =("11*‚
+4`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaY Y(JÚÔ
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaY Y(R
+%40"<javax.swing.text.JTextComponent#setText(Ljava/lang/String;)V*!
+
+lbltopjavax.swing.JTextArea*
+""2setText(Ljava/lang/String;)*
+4
+1*¡E
+11`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.java> >(
+Ñ
+Å
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.java> >(0
+%0java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetasüú
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.java> >(O
+%1java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%0java.util.ResourceBundle*
+TopErabiltzaileak2getString(Ljava/lang/String;)Û
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.java> >(P
+
+%2void",java.awt.Frame#setTitle(Ljava/lang/String;)V*
+gui.TopErabiltzaileGUI*
+
+%1java.lang.String2setTitle(Ljava/lang/String;)}
+{
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.java? ?(/	
+%3int"__id*
+""ËÂ
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.java? ?(0
+
+%4void"/javax.swing.JFrame#setDefaultCloseOperation(I)V*
+gui.TopErabiltzaileGUI*
+	
+%3int2setDefaultCloseOperation(I)⁄◊
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.java@ @(
+
+%5void" java.awt.Window#setBounds(IIII)V*
+gui.TopErabiltzaileGUI*2d*2d*2¬*2‘2setBounds(IIII)ìê
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaA A(
+%6javax.swing.JPanel"javax.swing.JPanel•
+¢
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaA A(
+%7"javax.swing.JPanel#<init>()V*
+
+%6javax.swing.JPanel≤
+Ø
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaA A()
+gui.TopErabiltzaileGUI"
+contentPane"__id*
+
+%6javax.swing.JPanel≤
+Ø
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaB B(
+%8javax.swing.JPanel"__id*+*)
+gui.TopErabiltzaileGUI"
+contentPane´®
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaB B('$
+%9javax.swing.border.EmptyBorder"javax.swing.border.EmptyBorder⁄
+◊
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaB B(3
+%10",javax.swing.border.EmptyBorder#<init>(IIII)V*&
+$
+%9javax.swing.border.EmptyBorder*2*2*2*2ûõ
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaB B(4
+%11void">javax.swing.JComponent#setBorder(Ljavax/swing/border/Border;)V*
+
+%8javax.swing.JPanel*&
+$
+%9javax.swing.border.EmptyBorder2&setBorder(Ljavax/swing/border/Border;)≥
+∞
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaC C(
+%12javax.swing.JPanel"__id*+*)
+gui.TopErabiltzaileGUI"
+contentPaneãà
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaC C(
+%13void"8javax.swing.JFrame#setContentPane(Ljava/awt/Container;)V*
+gui.TopErabiltzaileGUI*
+
+%12javax.swing.JPanel2$setContentPane(Ljava/awt/Container;)≥
+∞
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaD D(
+%14javax.swing.JPanel"__id*+*)
+gui.TopErabiltzaileGUI"
+contentPaneıÚ
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaD D(
+%15void"7java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V*
+
+%14javax.swing.JPanel*
+""2#setLayout(Ljava/awt/LayoutManager;)¥
+±
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaF F(
+%16javax.swing.JLabel"__id*,**
+gui.TopErabiltzaileGUI"
+lblHauekDiraﬁ€
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaF F()
+%17void"#java.awt.Component#setBounds(IIII)V*
+
+%16javax.swing.JLabel*2
+*2,*2´*22setBounds(IIII)≥
+∞
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaG G(
+%18javax.swing.JPanel"__id*+*)
+gui.TopErabiltzaileGUI"
+contentPane¥
+±
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaG G(
+%19javax.swing.JLabel"__id*,**
+gui.TopErabiltzaileGUI"
+lblHauekDiraóî
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaG G(
+%20java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%18javax.swing.JPanel*
+
+%19javax.swing.JLabel2add(Ljava/awt/Component;)¨
+©
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaI I(
+%21javax.swing.JLabel"__id*$*"
+gui.TopErabiltzaileGUI"
+lblT~
+|
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaI" I(+
+
+%22int"__id*
+""äá
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaI I(
+%23java.awt.Font"java.awt.Font—
+Œ
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaI I(0
+%24"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%23java.awt.Font*
+
+Tahoma*
+
+
+%22int*2Û
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaI I(1
+%25void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%21javax.swing.JLabel*
+
+%23java.awt.Font2setFont(Ljava/awt/Font;)¨
+©
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaJ J(
+%26javax.swing.JLabel"__id*$*"
+gui.TopErabiltzaileGUI"
+lblT›⁄
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaJ J(!
+%27void"#java.awt.Component#setBounds(IIII)V*
+
+%26javax.swing.JLabel*2
+*2*2}*22setBounds(IIII)≥
+∞
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaK K(
+%28javax.swing.JPanel"__id*+*)
+gui.TopErabiltzaileGUI"
+contentPane¨
+©
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaK K(
+%29javax.swing.JLabel"__id*$*"
+gui.TopErabiltzaileGUI"
+lblTóî
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaK K(
+%30java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%28javax.swing.JPanel*
+
+%29javax.swing.JLabel2add(Ljava/awt/Component;)öó
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaM M("
+%31javax.swing.JTextArea"javax.swing.JTextArea≠
+™
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaM M($
+%32"javax.swing.JTextArea#<init>()V*
+
+%31javax.swing.JTextArea¨
+©
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaM M(%
+lbltopjavax.swing.JTextArea"__id*
+
+%31javax.swing.JTextArea‰·
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaN N($
+%33void"#java.awt.Component#setBounds(IIII)V*!
+
+lbltopjavax.swing.JTextArea*2C*2f*2´*2[2setBounds(IIII)≥
+∞
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaO O(
+%34javax.swing.JPanel"__id*+*)
+gui.TopErabiltzaileGUI"
+contentPaneùö
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaO O(
+%35java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%34javax.swing.JPanel*!
+
+lbltopjavax.swing.JTextArea2add(Ljava/awt/Component;)ﬁ€
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaP P(
+%36void"/javax.swing.text.JTextComponent#setEditable(Z)V*!
+
+lbltopjavax.swing.JTextArea*
+""2setEditable(Z)Á‰
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaR R(
+%37java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.TopErabiltzaileGUI2getContentPane()”
+–
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaR R(&
+%38javax.swing.JPanel"5gui.TopErabiltzaileGUI#getPanel()Ljavax/swing/JPanel;*
+gui.TopErabiltzaileGUIóî
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaR R('
+%39java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%37java.awt.Container*
+
+%38javax.swing.JPanel2add(Ljava/awt/Component;)*
+4
+1*~
+0 "w
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javak k(
+implicit return*≠
+1`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javac c(µ
+≤
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javac c(
+%42javax.swing.JButton"__id*,**
+gui.TopErabiltzaileGUI"
+jButtonClose‡›
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javac c(*
+%43void"#java.awt.Component#setBounds(IIII)V*
+
+%42javax.swing.JButton*2¨*2„*2Y*22setBounds(IIII)≥
+∞
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javad d(
+%44javax.swing.JPanel"__id*+*)
+gui.TopErabiltzaileGUI"
+contentPaneµ
+≤
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javad d(
+%45javax.swing.JButton"__id*,**
+gui.TopErabiltzaileGUI"
+jButtonCloseòï
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javad d(
+%46java.awt.Component"@java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;*
+
+%44javax.swing.JPanel*
+
+%45javax.swing.JButton2add(Ljava/awt/Component;)µ
+≤
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javae e(
+%47javax.swing.JButton"__id*,**
+gui.TopErabiltzaileGUI"
+jButtonClose™ß
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javae% e(3$
+%48Lgui/TopErabiltzaileGUI$2895;"Lgui/TopErabiltzaileGUI$2895;∞
+≠
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javae! i(
+%49"java.lang.Object#<init>()V*&
+$
+%48Lgui/TopErabiltzaileGUI$2895;ºπ
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javae i(
+%50void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%47javax.swing.JButton*&
+$
+%48Lgui/TopErabiltzaileGUI$2895;22addActionListener(Ljava/awt/event/ActionListener;)Á‰
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaj j(
+%51java.awt.Container"7javax.swing.JFrame#getContentPane()Ljava/awt/Container;*
+gui.TopErabiltzaileGUI2getContentPane()µ
+≤
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaj j((
+%52javax.swing.JButton"__id*,**
+gui.TopErabiltzaileGUI"
+jButtonClose£†
+`
+VC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/TopErabiltzaileGUI.javaj j(/
+%53void"?java.awt.Container#add(Ljava/awt/Component;Ljava/lang/Object;)V*
+
+%51java.awt.Container*
+
+%52javax.swing.JButton*
+""2+add(Ljava/awt/Component;Ljava/lang/Object;)*
+0B
+gui.TopErabiltzaileGUI

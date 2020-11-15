@@ -1,0 +1,42 @@
+
+)domain.Kuota#toString()Ljava/lang/String;V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Kuota.javae e("1*½
+1V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Kuota.javaf	 f(™
+–
+V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Kuota.javaf f(
+%0java.lang.Integer"__id**
+domain.Kuota"	
+kuotaId¡
+ž
+V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Kuota.javaf	 f(
+%1java.lang.String"__concat*
+ID:*
+
+%0java.lang.Integer°
+­
+V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Kuota.javaf	 f(2
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+  kuota. Erantzuna:ÄÁ
+V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Kuota.javaf4 f(G
+%3java.lang.String"-domain.Kuota#getErantzuna()Ljava/lang/String;*
+domain.Kuota2getErantzuna()±
+®
+V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Kuota.javaf	 f(G
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String"r
+V
+LC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/Kuota.javaf f(H
+
+%4java.lang.StringB
+domain.Kuota

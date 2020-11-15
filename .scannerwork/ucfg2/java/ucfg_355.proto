@@ -1,0 +1,144 @@
+
+0gui.MainGUI#getLblNewLabel()Ljavax/swing/JLabel;W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaæ æ("3*â
+2W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaè# è(1û
+ø
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaè# è(H
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas‘Ž
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaè# è(b
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+SelectOption2getString(Ljava/lang/String;)Š‡
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaè è("
+%3javax.swing.JLabel"javax.swing.JLabelÈ
+Å
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaè è(c
+%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JLabel*
+
+%2java.lang.String¥
+¢
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaè è(c%
+gui.MainGUI"
+jLabelSelectOption"__id*
+
+%3javax.swing.JLabel¥
+¢
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaé é(
+%5javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOptionÓÐ
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaé é(0
+
+%6void"#java.awt.Component#setBounds(IIII)V*
+
+%5javax.swing.JLabel*2p*2*2ó*2,2setBounds(IIII)¥
+¢
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaê ê(
+%7javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOptiont
+r
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaê1 ê(:	
+%8int"__id*
+""t
+r
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaê= ê(H	
+%9int"__id*
+""€~
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaê" ê(&
+%10java.awt.Font"java.awt.FontÂ
+¿
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaê ê(M
+%11"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%10java.awt.Font*
+
+Tahoma*
+""*2éæ
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaê ê(N
+%12void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%7javax.swing.JLabel*
+
+%10java.awt.Font2setFont(Ljava/awt/Font;)¦
+£
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaë ë(
+%13javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOption€
+~
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaë$ ë(/
+%14java.awt.Color"__id*
+""ùö
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaë ë(0
+%15void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%13javax.swing.JLabel*
+
+%14java.awt.Color2setForeground(Ljava/awt/Color;)¦
+£
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaì ì(
+%16javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOptionu
+s
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaì- ì(B
+
+%17int"__id*
+""ÞÛ
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaì ì(C
+%18void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%16javax.swing.JLabel*
+
+
+%17int2setHorizontalAlignment(I)*
+1*Œ
+3W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaç ç(¥
+¢
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaç ç(
+%0javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOption*
+2
+1*ý
+1W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaî	 î(¦
+£
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaî	 î(
+%19javax.swing.JLabel"__id*'*%
+gui.MainGUI"
+jLabelSelectOption"v
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaî î(
+
+%19javax.swing.JLabelB
+gui.MainGUI

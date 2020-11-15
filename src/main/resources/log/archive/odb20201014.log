@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-10-14 20:32:41 #1 store] 
+Database 'C:\Users\Joseba\Desktop\SI2_workspace\upv.if.bets\src\main\resources\bets.temp' has been recovered (tr. 10872-10874)
+
+[2020-10-14 20:32:41 #2 store] 
+Database 'C:\Users\Joseba\Desktop\SI2_workspace\upv.if.bets\src\main\resources\bets.temp' is opened by 12052@DESKTOP-6LUC2SR
+
+[2020-10-14 20:32:41 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-10-14 20:32:41 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-10-14 20:32:41 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-10-14 20:32:41 #6 type] 
+Type domain.Kuota is not enhanced.
+
+[2020-10-14 20:32:41 #7 type] 
+Type domain.Admins is not enhanced.
+
+[2020-10-14 20:32:41 #8 type] 
+Type domain.Bet is not enhanced.
+
+[2020-10-14 20:32:41 #9 type] 
+Type domain.Mugimenduak is not enhanced.
+

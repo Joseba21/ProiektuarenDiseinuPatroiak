@@ -1,0 +1,42 @@
+
+ZbusinessLogic.BLFacadeImplementation#emaitzaAldatu(Ljava/lang/Integer;Ljava/lang/String;)Zp
+dC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/businessLogic/BLFacadeImplementation.javaÕ Õ("startingBlock*Ú
+startingBlockp
+dC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/businessLogic/BLFacadeImplementation.javaÕ Õ(C½
+º
+p
+dC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/businessLogic/BLFacadeImplementation.javaÔ Ô(
+%0"
+__annotate*
+	WebMethod*%
+#
+questionNumberjava.lang.Integer°
+­
+p
+dC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/businessLogic/BLFacadeImplementation.javaÕ& Õ(4#
+questionNumberjava.lang.Integer"__annotation*
+
+%0´
+±
+p
+dC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/businessLogic/BLFacadeImplementation.javaÔ Ô(
+%1"
+__annotate*
+	WebMethod*
+
+resultjava.lang.String§
+¤
+p
+dC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/businessLogic/BLFacadeImplementation.javaÕ< Õ(B
+resultjava.lang.String"__annotation*
+
+%1*
+1*ñ
+1p
+dC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/businessLogic/BLFacadeImplementation.javaÖ Ö('"z
+p
+dC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/businessLogic/BLFacadeImplementation.javaØ Ø(8
+"":#
+questionNumberjava.lang.Integer:
+resultjava.lang.StringB(&
+$businessLogic.BLFacadeImplementation

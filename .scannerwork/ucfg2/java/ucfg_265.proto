@@ -1,0 +1,90 @@
+
+Jgui.EkintzaEzabatuGUI#getRdbtnNewRadioButton_2()Ljavax/swing/JRadioButton;a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÍ Í(."3*¢
+2a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÏ, Ï(8†ù
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÏ Ï(+
+%1javax.swing.JRadioButton"javax.swing.JRadioButton‘
+—
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÏ Ï(9
+%2"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V* 
+
+%1javax.swing.JRadioButton*
+
+Castellano¬
+ø
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÏ Ï(92
+gui.EkintzaEzabatuGUI"
+rdbtnNewRadioButton_2"__id* 
+
+%1javax.swing.JRadioButton¬
+ø
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÌ Ì(
+%3javax.swing.JRadioButton"__id*4*2
+gui.EkintzaEzabatuGUI"
+rdbtnNewRadioButton_2®•
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÌ/ Ì(="
+%4Lgui/EkintzaEzabatuGUI$7886;"Lgui/EkintzaEzabatuGUI$7886;Æ
+´
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÌ+ Û(
+%5"java.lang.Object#<init>()V*$
+"
+%4Lgui/EkintzaEzabatuGUI$7886;æª
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÌ Û(
+
+%6void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V* 
+
+%3javax.swing.JRadioButton*$
+"
+%4Lgui/EkintzaEzabatuGUI$7886;22addActionListener(Ljava/awt/event/ActionListener;)∑
+¥
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÙ Ù(
+%7javax.swing.ButtonGroup"__id***(
+gui.EkintzaEzabatuGUI"
+buttonGroup¬
+ø
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÙ Ù((
+%8javax.swing.JRadioButton"__id*4*2
+gui.EkintzaEzabatuGUI"
+rdbtnNewRadioButton_2îë
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÙ Ù()
+
+%9void":javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V*
+
+%7javax.swing.ButtonGroup* 
+
+%8javax.swing.JRadioButton2!add(Ljavax/swing/AbstractButton;)*
+1*≥
+3a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÎ Î(¬
+ø
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaÎ Î(
+%0javax.swing.JRadioButton"__id*4*2
+gui.EkintzaEzabatuGUI"
+rdbtnNewRadioButton_2*
+2
+1*µ
+1a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaˆ	 ˆ(√
+¿
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaˆ	 ˆ(
+%10javax.swing.JRadioButton"__id*4*2
+gui.EkintzaEzabatuGUI"
+rdbtnNewRadioButton_2"Ü
+a
+UC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/EkintzaEzabatuGUI.javaˆ ˆ(!
+
+%10javax.swing.JRadioButtonB
+gui.EkintzaEzabatuGUI

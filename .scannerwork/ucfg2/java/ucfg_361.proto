@@ -1,0 +1,90 @@
+
+@gui.MainGUI#getRdbtnNewRadioButton_2()Ljavax/swing/JRadioButton;W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaä ä(."3*‰
+2W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaå, å(8ñì
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaå å(+
+%1javax.swing.JRadioButton"javax.swing.JRadioButton 
+«
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaå å(9
+%2"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V* 
+
+%1javax.swing.JRadioButton*
+
+CastellanoÆ
+´
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaå å(9(
+gui.MainGUI"
+rdbtnNewRadioButton_2"__id* 
+
+%1javax.swing.JRadioButtonÆ
+´
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaç ç(
+%3javax.swing.JRadioButton"__id***(
+gui.MainGUI"
+rdbtnNewRadioButton_2äá
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaç/ ç(=
+%4Lgui/MainGUI$8580;"Lgui/MainGUI$8580;ö
+ó
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaç+ ì(
+%5"java.lang.Object#<init>()V*
+
+%4Lgui/MainGUI$8580;™ß
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaç ì(
+
+%6void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V* 
+
+%3javax.swing.JRadioButton*
+
+%4Lgui/MainGUI$8580;22addActionListener(Ljava/awt/event/ActionListener;)£
+†
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaî î(
+%7javax.swing.ButtonGroup"__id* *
+gui.MainGUI"
+buttonGroupÆ
+´
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaî î((
+%8javax.swing.JRadioButton"__id***(
+gui.MainGUI"
+rdbtnNewRadioButton_2äá
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaî î()
+
+%9void":javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V*
+
+%7javax.swing.ButtonGroup* 
+
+%8javax.swing.JRadioButton2!add(Ljavax/swing/AbstractButton;)*
+1*ï
+3W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaã ã(Æ
+´
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javaã ã(
+%0javax.swing.JRadioButton"__id***(
+gui.MainGUI"
+rdbtnNewRadioButton_2*
+2
+1*å
+1W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javañ	 ñ(Ø
+¨
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javañ	 ñ(
+%10javax.swing.JRadioButton"__id***(
+gui.MainGUI"
+rdbtnNewRadioButton_2"|
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/MainGUI.javañ ñ(!
+
+%10javax.swing.JRadioButtonB
+gui.MainGUI

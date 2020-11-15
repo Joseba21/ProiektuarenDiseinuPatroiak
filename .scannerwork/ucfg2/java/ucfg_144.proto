@@ -1,0 +1,43 @@
+
+(domain.User#toString()Ljava/lang/String;W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/User.java¼ ¼("1*±
+1W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/User.java½	 ½(˜
+•
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/User.java½	 ½(
+%0java.lang.String"__id**
+domain.User"	
+KorreoaŸ
+œ
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/User.java½	 ½(
+%1java.lang.String"__concat*
+
+%0java.lang.String*
+:»¸
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/User.java½ ½(+
+%2java.lang.Double"(domain.User#getDirua()Ljava/lang/Double;*
+domain.User2
+getDirua()²
+¯
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/User.java½	 ½(+
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.Double­
+ª
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/User.java½	 ½(=
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+ : dirua duena."s
+W
+KC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/domain/User.java½ ½(>
+
+%4java.lang.StringB
+domain.User

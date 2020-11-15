@@ -1,0 +1,7 @@
+organization=julenalzas
+projectKey=JulenAlzas_Bets_SI
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.12128
+dashboardUrl=https://sonarcloud.io/dashboard?id=JulenAlzas_Bets_SI
+ceTaskId=AXSnc54NSvSje_i3HBFn
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXSnc54NSvSje_i3HBFn

@@ -1,0 +1,89 @@
+
+Igui.FindQuestionsGUI#getRdbtnNewRadioButton_1()Ljavax/swing/JRadioButton;`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaç ç(."3*ê
+2`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaè, è(5üú
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaè è(+
+%1javax.swing.JRadioButton"javax.swing.JRadioButton–
+Õ
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaè è(6
+%2"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V* 
+
+%1javax.swing.JRadioButton*	
+Euskara¿
+Ω
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaè è(61
+gui.FindQuestionsGUI"
+rdbtnNewRadioButton_1"__id* 
+
+%1javax.swing.JRadioButton¿
+Ω
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaê ê(
+%3javax.swing.JRadioButton"__id*3*1
+gui.FindQuestionsGUI"
+rdbtnNewRadioButton_1ß§
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaê/ ê(="
+%4Lgui/FindQuestionsGUI$31522;"Lgui/FindQuestionsGUI$31522;≠
+™
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaê+ ï(
+%5"java.lang.Object#<init>()V*$
+"
+%4Lgui/FindQuestionsGUI$31522;Ω∫
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaê ï(
+
+%6void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V* 
+
+%3javax.swing.JRadioButton*$
+"
+%4Lgui/FindQuestionsGUI$31522;22addActionListener(Ljava/awt/event/ActionListener;)µ
+≤
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javañ ñ(
+%7javax.swing.ButtonGroup"__id*)*'
+gui.FindQuestionsGUI"
+buttonGroup¿
+Ω
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javañ ñ((
+%8javax.swing.JRadioButton"__id*3*1
+gui.FindQuestionsGUI"
+rdbtnNewRadioButton_1ìê
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javañ ñ()
+
+%9void":javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V*
+
+%7javax.swing.ButtonGroup* 
+
+%8javax.swing.JRadioButton2!add(Ljavax/swing/AbstractButton;)*
+1*∞
+3`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaé é(¿
+Ω
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaé é(
+%0javax.swing.JRadioButton"__id*3*1
+gui.FindQuestionsGUI"
+rdbtnNewRadioButton_1*
+2
+1*±
+1`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaò	 ò(¡
+æ
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaò	 ò(
+%10javax.swing.JRadioButton"__id*3*1
+gui.FindQuestionsGUI"
+rdbtnNewRadioButton_1"Ö
+`
+TC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/FindQuestionsGUI.javaò ò(!
+
+%10javax.swing.JRadioButtonB
+gui.FindQuestionsGUI

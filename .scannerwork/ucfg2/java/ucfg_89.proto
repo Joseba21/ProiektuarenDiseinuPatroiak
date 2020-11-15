@@ -1,0 +1,89 @@
+
+Egui.KuotakIkusiGUI#getRdbtnNewRadioButton()Ljavax/swing/JRadioButton;^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaï ï(,"3*‡
+2^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaó* ó(3ùö
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaó ó()
+%1javax.swing.JRadioButton"javax.swing.JRadioButtonŒ
+À
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaó ó(4
+%2"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V* 
+
+%1javax.swing.JRadioButton*	
+English∫
+∑
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaó ó(4-
+gui.KuotakIkusiGUI"
+rdbtnNewRadioButton"__id* 
+
+%1javax.swing.JRadioButton∫
+∑
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaò ò(
+%3javax.swing.JRadioButton"__id*/*-
+gui.KuotakIkusiGUI"
+rdbtnNewRadioButtonüú
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaò- ò(;
+%4Lgui/KuotakIkusiGUI$9339;"Lgui/KuotakIkusiGUI$9339;®
+•
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaò) ù(
+%5"java.lang.Object#<init>()V*!
+
+%4Lgui/KuotakIkusiGUI$9339;∏µ
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaò ù(
+
+%6void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V* 
+
+%3javax.swing.JRadioButton*!
+
+%4Lgui/KuotakIkusiGUI$9339;22addActionListener(Ljava/awt/event/ActionListener;)±
+Æ
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaû û(
+%7javax.swing.ButtonGroup"__id*'*%
+gui.KuotakIkusiGUI"
+buttonGroup∫
+∑
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaû û(&
+%8javax.swing.JRadioButton"__id*/*-
+gui.KuotakIkusiGUI"
+rdbtnNewRadioButtonëé
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javaû û('
+
+%9void":javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V*
+
+%7javax.swing.ButtonGroup* 
+
+%8javax.swing.JRadioButton2!add(Ljavax/swing/AbstractButton;)*
+1*®
+3^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javañ ñ(∫
+∑
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.javañ ñ(
+%0javax.swing.JRadioButton"__id*/*-
+gui.KuotakIkusiGUI"
+rdbtnNewRadioButton*
+2
+1*ß
+1^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.java†	 †(ª
+∏
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.java†	 †(
+%10javax.swing.JRadioButton"__id*/*-
+gui.KuotakIkusiGUI"
+rdbtnNewRadioButton"É
+^
+RC:/Users/julen/eclipse-workspace/upv.if.bets/src/main/java/gui/KuotakIkusiGUI.java† †(!
+
+%10javax.swing.JRadioButtonB
+gui.KuotakIkusiGUI
